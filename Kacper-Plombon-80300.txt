@@ -1,0 +1,3 @@
+Zadanie: Generowanie faktury pro forma
+Student: Kacper Plombon
+Nr albumu: 80300
